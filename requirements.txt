@@ -1,0 +1,1 @@
+-e git+https://github.com/tjunttila/pdf2video.git@33ac0ab7e4cf76c64d6a48a4e78657caac730f86
