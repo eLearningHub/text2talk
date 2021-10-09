@@ -4,7 +4,7 @@
 # Usage: 
 
 * Install [Docker](https://docs.docker.com/get-docker/)
-* Configure awscli and make sure you have access to AWS Polly
+* Configure [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) and make sure you have access to [AWS Polly](https://docs.aws.amazon.com/polly/latest/dg/setting-up.html)
 * You need to have a PDF file and the text file for the speech: FILENAME.pdf and FILENAME.txt
 * Run:
 ```
