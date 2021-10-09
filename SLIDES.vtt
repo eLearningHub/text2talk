@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00.199 --> 00:07.390
+Hello! My name is Matthew. I have just joined the company as the chief learning officer. I am very excited to work with you.
+
+00:08.502 --> 00:12.200
+I have a secret to share with you. I am not a real person.
+
+00:13.212 --> 00:17.630
+Now that we got that out of the way, I am going to help you share your knowledge with your coworkers.
+
+00:18.654 --> 00:21.520
+Today, we will be talking about Markdown.
+
+00:21.719 --> 00:27.220
+The slides that you see here have been generated using a tool called pandoc from text files in the markdown format.
+
+00:28.257 --> 00:33.205
+It is amazing isn't it? You can manage your slides similar to how you manage your code.
+
+00:34.242 --> 00:40.640
+I am sure you have seen GitHub readme files. That is markdown.
+
+00:40.839 --> 00:44.427
+Pandoc is a great command line tool for working with markdown files.
+
+00:45.439 --> 00:52.257
+You can publish markdown files in more than 10 output formats including PDF, HTML, PowerPoint and Word.
+
+00:53.269 --> 00:58.800
+In one of my previous jobs, I would write my reports in laytek and create my slides in PowerPoint.
+
+00:59.837 --> 01:03.530
+Including LaTeX math formulas in PowerPoint was a big headache.
+
+01:04.604 --> 01:14.440
+Later, when I switched to Markdown. I would write the content in Markdown and then publish all the reports and slides that I wanted in a very coherent form.
+
+01:14.639 --> 01:17.277
+The best part is that you can write LaTex in markdown.
+
+01:18.314 --> 01:21.207
+You can get the best quality of the most simple format.
+
+01:22.294 --> 01:25.225
+I hope you are now interested to know more about Markdown.
+
+01:26.312 --> 01:33.760
+Please do your own research but take a look at aar studio. It is one of the best things that has happened to markdown. You will like it!
