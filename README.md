@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eLearningHub/pdf2video/main)
 [![Pangeo](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/eLearningHub/pdf2video/main)
 
-# Installing: 
+# Installing
 
 * Install [Docker](https://docs.docker.com/get-docker/)
 * Configure [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) and make sure you have access to [AWS Polly](https://docs.aws.amazon.com/polly/latest/dg/setting-up.html)
