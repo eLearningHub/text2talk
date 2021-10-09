@@ -34,4 +34,4 @@ You can get the best quality of the most simple format.
 #10
 I hope you are now interested to know more about Markdown.
 #10
-Please do your own research but take a look at aar studio. It is one of the best things that has happened to markdown. You will like it! 
+Please do your own research but take a look at #ph/RStudio/Ar studio/. It is one of the best things that has happened to markdown. You will like it! 
