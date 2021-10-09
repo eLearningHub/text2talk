@@ -20,15 +20,15 @@ Pandoc is a great command line tool for working with markdown files.
 #10
 You can publish markdown files in more than 10 output formats including PDF, HTML, PowerPoint and Word.
 #10  
-In one of my previous jobs, I would write my reports in laytek and create my slides in PowerPoint.
+In one of my previous jobs, I would write my reports in #ph/LaTeX/leI tEk/ and create my slides in PowerPoint.
 #10
-Including LaTeX math formulas in PowerPoint was a big headache.
+Including #ph/LaTeX/leI tEk/ math formulas in PowerPoint was a big headache.
 #10
 Later, when I switched to Markdown. I would write the content in Markdown and then publish all the reports and slides that I wanted in a very coherent form.
 #10
 
 #page LaTeX
-The best part is that you can write LaTex in markdown. 
+The best part is that you can write #ph/LaTeX/leI tEk/ in markdown. 
 #10
 You can get the best quality of the most simple format.
 #10
