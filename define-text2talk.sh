@@ -27,7 +27,7 @@ docker run \
 --add-host text2talk:127.0.0.1 \
 nubonetics/text2talk:latest >> /dev/null
 sleep 1
-docker exec -it --env COLORFGBG --env TERM -u ${USER} text2talk /bin/bash -lc "cd /workspace; pandoc $ARGS"
+docker exec -t --env COLORFGBG --env TERM -u ${USER} text2talk /bin/bash -lc "cd /workspace; pandoc $ARGS"
 docker stop text2talk >> /dev/null
 docker rm text2talk >> /dev/null
 }
@@ -58,7 +58,7 @@ docker run \
 --add-host text2talk:127.0.0.1 \
 nubonetics/text2talk:latest >> /dev/null
 sleep 1
-docker exec -it --env COLORFGBG --env TERM -u ${USER} text2talk /bin/bash -lc "cd /workspace; pdf2video $ARGS"
+docker exec -t --env COLORFGBG --env TERM -u ${USER} text2talk /bin/bash -lc "cd /workspace; pdf2video $ARGS"
 docker stop text2talk >> /dev/null
 docker rm text2talk >> /dev/null
 }
