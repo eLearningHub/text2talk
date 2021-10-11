@@ -8,7 +8,7 @@
 * Define text2talk functions with: `source define-text2talk.sh`
 * If you want to keep the text2talk functions, run: 
 ```
-curl https://raw.githubusercontent.com/eLearningHub/text2talk/main/install-text2talk.sh | bash
+curl -sfL https://raw.githubusercontent.com/eLearningHub/text2talk/main/install-text2talk.sh | bash
 ```
 
 # Using Pandoc to make PDF slides
