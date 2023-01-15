@@ -48,6 +48,9 @@ docker run \
 --env GROUP=${USER} \
 --env USER_ID=`id -u ${USER}` \
 --env GROUP_ID=`getent group ${USER} | awk -F: '{printf $3}'` \
+--env AWS_ACCESS_KEY_ID \
+--env AWS_SECRET_ACCESS_KEY \
+--env AWS_DEFAULT_REGION \
 -v ${PWD}:/workspace \
 --env DISPLAY \
 --env VIDEO_GROUP_ID=`getent group video | awk -F: '{printf $3}'` \
